@@ -1,4 +1,4 @@
 zoj
 ===
 
-solutions for zoj problems
+solutions of zoj problems
