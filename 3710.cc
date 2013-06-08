@@ -1,3 +1,4 @@
+//2013-06-07 18:17:38  C++  50	180	PrincessMX
 #include <bitset>
 #include <cstdio>
 #include <vector>
@@ -50,5 +51,3 @@ int main() {
   }
   return 0;
 }
-
-2013-06-07 18:17:38  C++	50	180	PrincessMX
